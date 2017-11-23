@@ -13,3 +13,5 @@ echo "fromforked";
 echo "fromforked2";
 
 echo "fromforked3";
+
+echo "fromforked4";
